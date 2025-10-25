@@ -31,10 +31,6 @@ Make your first contribution using basic Git operations:
     Languages you know
     One thing you want to build this year
 
-    Example:
-    Name: Rahul  
-    Languages: Python, C++, JavaScript  
-    Goal: Make a full-stack web project
 
 4. Commit your changes with a clear message
     Example: "added my introduction file"
