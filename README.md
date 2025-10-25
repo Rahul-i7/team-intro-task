@@ -28,7 +28,9 @@ Make your first contribution using basic Git operations:
 3. Inside the file, add:
 
     Your Name
+
     Languages you know
+
     One thing you want to build this year
 
 
