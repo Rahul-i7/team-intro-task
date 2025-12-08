@@ -1,3 +1,0 @@
-Name: Rahul Kumar Gupta
-Tech stacks: Css,Js,cpp,py
-want to make an blockchain based app
